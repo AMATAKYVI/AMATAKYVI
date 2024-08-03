@@ -1,7 +1,5 @@
 - Hi, I’m @AMATAKYVI
-- I’m interested in Computer Science (Web Development).
-- I’m currently learning HTML, CSS, JavaScript, React, NodeJS, MongoDD.
-- I’m looking to collaborate on creating a website.
+- I’m interested in Computer Science (Web Development), Mobile Dev, Game Dev.
 - How to reach me through email: yviamatak123@gmail.com
 
 <!---
